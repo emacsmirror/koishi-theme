@@ -39,8 +39,7 @@
 (deftheme koishi
   "A sweet dark theme for koishimacs."
   :family 'koishi
-  :kind 'color-scheme
-  :background-mode 'dark)
+  :kind 'color-scheme)
 
 ;;;###autoload
 (defcustom koishi-theme-light nil
